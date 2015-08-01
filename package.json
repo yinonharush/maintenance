@@ -1,0 +1,28 @@
+{
+  "name": "maintenance",
+  "version": "1.0.0",
+  "description": "Maintenance app!",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.3.3",
+    "express": "^4.13.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinonharush/maintenance.git"
+  },
+  "keywords": [
+    "maintenance"
+  ],
+  "author": "Yinon Harush <yinonharush@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yinonharush/maintenance/issues"
+  },
+  "homepage": "https://github.com/yinonharush/maintenance#readme"
+}
